@@ -6,8 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/mersdk/src/src/core/core_autogen/mocs_compilation.cpp
-
 /home/mersdk/src/src/core/src/locallanguage.cpp
 locallanguage.h
 /home/mersdk/src/src/core/src/locallanguage.h
