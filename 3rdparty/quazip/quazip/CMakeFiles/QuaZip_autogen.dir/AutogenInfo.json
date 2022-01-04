@@ -1,0 +1,161 @@
+{
+	"BUILD_DIR" : "/home/mersdk/src/3rdparty/quazip/quazip/QuaZip_autogen",
+	"CMAKE_BINARY_DIR" : "/home/mersdk/src",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/mersdk/src/3rdparty/quazip/quazip",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/mersdk/src/3rdparty/quazip/quazip",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/mersdk/src/3rdparty/quazip/quazip/CMakeLists.txt",
+		"/usr/share/cmake/Modules/GNUInstallDirs.cmake",
+		"/usr/share/cmake/Modules/CMakePackageConfigHelpers.cmake",
+		"/usr/share/cmake/Modules/WriteBasicConfigVersionFile.cmake",
+		"/usr/share/cmake/Modules/BasicConfigVersion-SameMajorVersion.cmake.in",
+		"/home/mersdk/src/3rdparty/quazip/quazip/QuaZipConfig.cmake.in",
+		"/home/mersdk/src/3rdparty/quazip/quazip/quazip.pc.cmakein"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/mersdk/src",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/JlCompress.h",
+			"Mu",
+			"EWIEGA46WW/moc_JlCompress.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/ioapi.h",
+			"Mu",
+			"EWIEGA46WW/moc_ioapi.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/minizip_crypt.h",
+			"Mu",
+			"EWIEGA46WW/moc_minizip_crypt.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quaadler32.h",
+			"Mu",
+			"EWIEGA46WW/moc_quaadler32.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quachecksum32.h",
+			"Mu",
+			"EWIEGA46WW/moc_quachecksum32.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quacrc32.h",
+			"Mu",
+			"EWIEGA46WW/moc_quacrc32.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quagzipfile.h",
+			"Mu",
+			"EWIEGA46WW/moc_quagzipfile.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quaziodevice.h",
+			"Mu",
+			"EWIEGA46WW/moc_quaziodevice.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazip.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazip.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazip_global.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazip_global.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazip_qt_compat.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazip_qt_compat.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazipdir.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazipdir.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazipfile.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazipfile.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazipfileinfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazipfileinfo.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/quazipnewinfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_quazipnewinfo.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/unzip.h",
+			"Mu",
+			"EWIEGA46WW/moc_unzip.cpp"
+		],
+		[
+			"/home/mersdk/src/3rdparty/quazip/quazip/zip.h",
+			"Mu",
+			"EWIEGA46WW/moc_zip.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/mersdk/src/3rdparty/quazip/quazip/QuaZip_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/mersdk/src/3rdparty/quazip/quazip/QuaZip_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_NO_DEBUG", "QUAZIP_BUILD", "QuaZip_EXPORTS" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/mersdk/src/3rdparty/quazip/quazip",
+		"/home/mersdk/src/3rdparty/quazip",
+		"/usr/include/qt5",
+		"/usr/include/qt5/QtCore",
+		"/usr/share/qt5/mkspecs/linux-g++",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/mersdk/src/3rdparty/quazip/quazip/CMakeFiles/QuaZip_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib64/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 6,
+	"SETTINGS_FILE" : "/home/mersdk/src/3rdparty/quazip/quazip/CMakeFiles/QuaZip_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/JlCompress.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/qioapi.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quaadler32.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quachecksum32.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quacrc32.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quagzipfile.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quaziodevice.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quazip.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quazipdir.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quazipfile.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quazipfileinfo.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/quazipnewinfo.cpp", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/unzip.c", "Mu" ],
+		[ "/home/mersdk/src/3rdparty/quazip/quazip/zip.c", "Mu" ]
+	],
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+23d3391c38d4fe576e45bf1586c31115 3rdparty/quazip/quazip/CMakeFiles/QuaZip_autogen
+6b271301ca50a796ca83c7766f5c7d12 CMakeFiles/bible_autogen
+a9b38a0bda681fb09bb1e4a280e06628 qrc_qml.cpp
+ce23b55c60f2ed046831b04cd6e290ad src/core/CMakeFiles/core_autogen
+1ad04d7364c922c4f97921ddf081648b src/dbmanager/CMakeFiles/dbmanager_autogen
+52e86d2146ce4030ff5447100ac9f244 src/modules/CMakeFiles/modules_autogen
+ee833ac9a6cd733cd585af8ffb0ff127 src/netmanager/CMakeFiles/netmanager_autogen

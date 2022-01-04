@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnetmanager.a CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o CMakeFiles/netmanager.dir/src/textprogressbar.cpp.o CMakeFiles/netmanager.dir/src/quickdownload.cpp.o CMakeFiles/netmanager.dir/src/downloadmanager.cpp.o CMakeFiles/netmanager.dir/src/curlmulti.cpp.o CMakeFiles/netmanager.dir/src/curleasy.cpp.o
+/usr/bin/ranlib libnetmanager.a

@@ -1,0 +1,2 @@
+/usr
+/home/mersdk/src/bible:bin
