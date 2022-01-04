@@ -280,15 +280,6 @@ src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: /usr/include/qt5/QtSql/qsqlquerymodel.h
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: /usr/include/qt5/QtSql/qsqlrecord.h
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: /usr/include/qt5/QtSql/qsqltablemodel.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/curl.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/curlver.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/easy.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/multi.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/options.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/system.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/typecheck-gcc.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/curl/build/include/curl/urlapi.h
-src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: 3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: src/core/include/locallanguage.h
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: src/dbmanager/include/binding.h
 src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp.o: src/dbmanager/include/db.h
@@ -384,14 +375,6 @@ src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: /usr/include/qt5/Qt
 src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: /usr/include/qt5/QtCore/qvarlengtharray.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: /usr/include/qt5/QtCore/qvector.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: /usr/include/qt5/QtCore/qversiontagging.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/curl.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/curlver.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/easy.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/multi.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/options.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/system.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/typecheck-gcc.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: 3rdparty/curl/build/include/curl/urlapi.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curleasy.cpp.o: src/netmanager/include/curleasy.h
 
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: src/netmanager/src/curlmulti.cpp
@@ -477,14 +460,6 @@ src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: /usr/include/qt5/Q
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: /usr/include/qt5/QtCore/qvarlengtharray.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: /usr/include/qt5/QtCore/qvector.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: /usr/include/qt5/QtCore/qversiontagging.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/curl.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/curlver.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/easy.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/multi.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/options.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/system.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/typecheck-gcc.h
-src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: 3rdparty/curl/build/include/curl/urlapi.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: src/netmanager/include/curleasy.h
 src/netmanager/CMakeFiles/netmanager.dir/src/curlmulti.cpp.o: src/netmanager/include/curlmulti.h
 
@@ -868,7 +843,6 @@ src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: /usr/include/q
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: /usr/include/qt5/QtSql/qsqlquerymodel.h
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: /usr/include/qt5/QtSql/qsqlrecord.h
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: /usr/include/qt5/QtSql/qsqltablemodel.h
-src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: 3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: src/core/include/locallanguage.h
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: src/dbmanager/include/binding.h
 src/netmanager/CMakeFiles/netmanager.dir/src/quickdownload.cpp.o: src/dbmanager/include/db.h

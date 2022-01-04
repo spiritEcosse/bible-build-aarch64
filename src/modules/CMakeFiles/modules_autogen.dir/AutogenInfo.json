@@ -22,11 +22,6 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h",
-			"MU",
-			"E43V3BTXHE/moc_sqlite_orm.cpp"
-		],
-		[
 			"/home/mersdk/src/src/modules/include/booksmodel.h",
 			"MU",
 			"6YEA5652QU/moc_booksmodel.cpp"
@@ -147,16 +142,11 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/mersdk/src/src/modules",
-		"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm",
-		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/home/mersdk/src/src/modules/include",
 		"/home/mersdk/src/src/modules/src",
 		"/home/mersdk/src/src/core/include",
 		"/home/mersdk/src/src/dbmanager/include",
 		"/home/mersdk/src/src/netmanager/include",
-		"/home/mersdk/src/3rdparty/quazip",
-		"/home/mersdk/src/3rdparty/quazip/quazip",
-		"/home/mersdk/src/3rdparty/sqlite_orm/include",
 		"/usr/include/qt5",
 		"/usr/include/qt5/QtCore",
 		"/usr/share/qt5/mkspecs/linux-g++",
@@ -164,8 +154,7 @@
 		"/usr/include/qt5/QtQml",
 		"/usr/include/qt5/QtNetwork",
 		"/usr/include/qt5/QtGui",
-		"/usr/include/qt5/QtSql",
-		"/usr/include"
+		"/usr/include/qt5/QtSql"
 	],
 	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
 	"MOC_OPTIONS" : [],

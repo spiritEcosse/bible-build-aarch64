@@ -28,8 +28,6 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "src/netmanager"
   "src/netmanager/netmanager_autogen/include"
-  "3rdparty/sqlite_orm/include/sqlite_orm"
-  "3rdparty/curl/build/include"
   "src/netmanager/include"
   "src/netmanager/src"
   "src/modules/include"
@@ -48,7 +46,6 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/mersdk/src/src/modules/CMakeFiles/modules.dir/DependInfo.cmake"
   "/home/mersdk/src/src/core/CMakeFiles/core.dir/DependInfo.cmake"
   "/home/mersdk/src/src/dbmanager/CMakeFiles/dbmanager.dir/DependInfo.cmake"
-  "/home/mersdk/src/3rdparty/quazip/quazip/CMakeFiles/QuaZip.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
