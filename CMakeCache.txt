@@ -374,6 +374,12 @@ SQLite3_INCLUDE_DIR:PATH=/usr/include
 //Path to a library.
 SQLite3_LIBRARY:FILEPATH=/usr/lib64/libsqlite3.so
 
+//0
+STATUS_BUILD_NGHTTP2:BOOL=OFF
+
+//0
+STATUS_BUILD_OPENSSL:BOOL=OFF
+
 //OFF
 SqliteOrm_BuildTests:BOOL=OFF
 
