@@ -20,6 +20,11 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h",
+			"MU",
+			"E43V3BTXHE/moc_sqlite_orm.cpp"
+		],
+		[
 			"/home/mersdk/src/src/dbmanager/include/binding.h",
 			"MU",
 			"6YEA5652QU/moc_binding.cpp"
@@ -51,8 +56,11 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/mersdk/src/src/dbmanager",
+		"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm",
+		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/home/mersdk/src/src/dbmanager/include",
 		"/home/mersdk/src/src/dbmanager/src",
+		"/home/mersdk/src/3rdparty/sqlite_orm/include",
 		"/home/mersdk/src/src/modules/include",
 		"/home/mersdk/src/src/core/include",
 		"/usr/include/qt5",

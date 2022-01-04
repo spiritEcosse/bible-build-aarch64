@@ -161,6 +161,8 @@ bible: src/dbmanager/libdbmanager.a
 bible: src/netmanager/libnetmanager.a
 bible: /usr/lib64/libQt5Quick.so.5.6.3
 bible: /usr/lib64/libQt5Gui.so.5.6.3
+bible: 3rdparty/quazip/quazip/libquazip1-qt5.so.1.1
+bible: /usr/lib64/libsqlite3.so
 bible: /usr/lib64/libQt5Sql.so.5.6.3
 bible: src/core/libcore.a
 bible: /usr/lib64/libz.so

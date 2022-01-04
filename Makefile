@@ -202,6 +202,32 @@ bible_autogen/fast:
 .PHONY : bible_autogen/fast
 
 #=============================================================================
+# Target rules for targets named QuaZip
+
+# Build rule for target.
+QuaZip: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuaZip
+.PHONY : QuaZip
+
+# fast build rule for target.
+QuaZip/fast:
+	$(MAKE) $(MAKESILENT) -f 3rdparty/quazip/quazip/CMakeFiles/QuaZip.dir/build.make 3rdparty/quazip/quazip/CMakeFiles/QuaZip.dir/build
+.PHONY : QuaZip/fast
+
+#=============================================================================
+# Target rules for targets named QuaZip_autogen
+
+# Build rule for target.
+QuaZip_autogen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuaZip_autogen
+.PHONY : QuaZip_autogen
+
+# fast build rule for target.
+QuaZip_autogen/fast:
+	$(MAKE) $(MAKESILENT) -f 3rdparty/quazip/quazip/CMakeFiles/QuaZip_autogen.dir/build.make 3rdparty/quazip/quazip/CMakeFiles/QuaZip_autogen.dir/build
+.PHONY : QuaZip_autogen/fast
+
+#=============================================================================
 # Target rules for targets named core
 
 # Build rule for target.
@@ -398,11 +424,13 @@ help:
 	@echo "... install/strip"
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
+	@echo "... QuaZip_autogen"
 	@echo "... bible_autogen"
 	@echo "... core_autogen"
 	@echo "... dbmanager_autogen"
 	@echo "... modules_autogen"
 	@echo "... netmanager_autogen"
+	@echo "... QuaZip"
 	@echo "... bible"
 	@echo "... core"
 	@echo "... dbmanager"

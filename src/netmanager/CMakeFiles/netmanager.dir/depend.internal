@@ -281,6 +281,15 @@ src/netmanager/CMakeFiles/netmanager.dir/netmanager_autogen/mocs_compilation.cpp
  /usr/include/qt5/QtSql/qsqlquerymodel.h
  /usr/include/qt5/QtSql/qsqlrecord.h
  /usr/include/qt5/QtSql/qsqltablemodel.h
+ 3rdparty/curl/build/include/curl/curl.h
+ 3rdparty/curl/build/include/curl/curlver.h
+ 3rdparty/curl/build/include/curl/easy.h
+ 3rdparty/curl/build/include/curl/multi.h
+ 3rdparty/curl/build/include/curl/options.h
+ 3rdparty/curl/build/include/curl/system.h
+ 3rdparty/curl/build/include/curl/typecheck-gcc.h
+ 3rdparty/curl/build/include/curl/urlapi.h
+ 3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h
  src/core/include/locallanguage.h
  src/dbmanager/include/binding.h
  src/dbmanager/include/db.h

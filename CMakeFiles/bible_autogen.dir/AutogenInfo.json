@@ -68,6 +68,11 @@
 		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
 		"/usr/share/cmake/Modules/FindPackageMessage.cmake",
 		"/usr/share/cmake/Modules/ProcessorCount.cmake",
+		"/home/mersdk/src/3rdparty/quazip.cmake",
+		"/home/mersdk/src/3rdparty/sqlite_orm.cmake",
+		"/home/mersdk/src/3rdparty/curl.cmake",
+		"/home/mersdk/src/3rdparty/openssl.cmake",
+		"/home/mersdk/src/3rdparty/nghttp2.cmake",
 		"/home/mersdk/src/qml/qml.qrc",
 		"/usr/share/cmake/Modules/FindPkgConfig.cmake",
 		"/usr/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
@@ -76,7 +81,14 @@
 	"CMAKE_SOURCE_DIR" : "/home/mersdk/src",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
-	"HEADERS" : [],
+	"HEADERS" : 
+	[
+		[
+			"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm/sqlite_orm.h",
+			"Mu",
+			"G4BC3QPC4J/moc_sqlite_orm.cpp"
+		]
+	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
 	"INCLUDE_DIR" : "/home/mersdk/src/bible_autogen/include",
 	"MOC_COMPILATION_FILE" : "/home/mersdk/src/bible_autogen/mocs_compilation.cpp",
@@ -102,12 +114,15 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/mersdk/src",
+		"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm",
+		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/usr/include/sailfishapp",
 		"/usr/include/mdeclarativecache5",
 		"/home/mersdk/src/src/modules/include",
 		"/home/mersdk/src/src/dbmanager/include",
 		"/home/mersdk/src/src/core/include",
 		"/home/mersdk/src/src/netmanager/include",
+		"/home/mersdk/src/3rdparty/sqlite_orm/include",
 		"/usr/include/qt5",
 		"/usr/include/qt5/QtNetwork",
 		"/usr/include/qt5/QtCore",
