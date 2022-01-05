@@ -27,12 +27,16 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "."
   "bible_autogen/include"
+  "3rdparty/curl/build/include"
+  "3rdparty/sqlite_orm/include/sqlite_orm"
+  "3rdparty/openssl/build/include"
   "/usr/include/sailfishapp"
   "/usr/include/mdeclarativecache5"
   "src/modules/include"
   "src/dbmanager/include"
   "src/core/include"
   "src/netmanager/include"
+  "3rdparty/sqlite_orm/include"
   "/usr/include/qt5"
   "/usr/include/qt5/QtNetwork"
   "/usr/include/qt5/QtCore"
@@ -50,6 +54,7 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/mersdk/src/src/dbmanager/CMakeFiles/dbmanager.dir/DependInfo.cmake"
   "/home/mersdk/src/src/core/CMakeFiles/core.dir/DependInfo.cmake"
   "/home/mersdk/src/src/netmanager/CMakeFiles/netmanager.dir/DependInfo.cmake"
+  "/home/mersdk/src/3rdparty/quazip/quazip/CMakeFiles/QuaZip.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

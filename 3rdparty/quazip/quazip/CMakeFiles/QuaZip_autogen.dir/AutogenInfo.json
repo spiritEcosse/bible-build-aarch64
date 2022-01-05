@@ -119,6 +119,7 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/mersdk/src/3rdparty/quazip/quazip",
+		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/home/mersdk/src/3rdparty/quazip",
 		"/usr/include/qt5",
 		"/usr/include/qt5/QtCore",

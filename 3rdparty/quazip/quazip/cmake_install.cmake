@@ -64,6 +64,10 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
       )
     if(EXISTS "${file}" AND
        NOT IS_SYMLINK "${file}")
+      file(RPATH_CHANGE
+           FILE "${file}"
+           OLD_RPATH "/home/mersdk/src/3rdparty/openssl/build/lib:/home/mersdk/src/3rdparty/nghttp2/build/lib:/home/mersdk/src/3rdparty/curl/build/lib:"
+           NEW_RPATH "")
       if(CMAKE_INSTALL_DO_STRIP)
         execute_process(COMMAND "/usr/bin/strip" "${file}")
       endif()
@@ -81,6 +85,10 @@ if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib64" TYPE SHARED_LIBRARY FILES "/home/mersdk/src/3rdparty/quazip/quazip/libquazip1-qt5.so")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib64/libquazip1-qt5.so" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib64/libquazip1-qt5.so")
+    file(RPATH_CHANGE
+         FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib64/libquazip1-qt5.so"
+         OLD_RPATH "/home/mersdk/src/3rdparty/openssl/build/lib:/home/mersdk/src/3rdparty/nghttp2/build/lib:/home/mersdk/src/3rdparty/curl/build/lib:"
+         NEW_RPATH "")
     if(CMAKE_INSTALL_DO_STRIP)
       execute_process(COMMAND "/usr/bin/strip" "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib64/libquazip1-qt5.so")
     endif()

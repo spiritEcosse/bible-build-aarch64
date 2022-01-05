@@ -22,6 +22,7 @@ set(CMAKE_TARGET_DEFINITIONS_C
 set(CMAKE_C_TARGET_INCLUDE_PATH
   "3rdparty/quazip/quazip"
   "3rdparty/quazip/quazip/QuaZip_autogen/include"
+  "3rdparty/curl/build/include"
   "3rdparty/quazip"
   "/usr/include/qt5"
   "/usr/include/qt5/QtCore"
@@ -56,6 +57,7 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "3rdparty/quazip/quazip"
   "3rdparty/quazip/quazip/QuaZip_autogen/include"
+  "3rdparty/curl/build/include"
   "3rdparty/quazip"
   "/usr/include/qt5"
   "/usr/include/qt5/QtCore"

@@ -44,11 +44,17 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "src/modules"
   "src/modules/modules_autogen/include"
+  "3rdparty/curl/build/include"
+  "3rdparty/sqlite_orm/include/sqlite_orm"
+  "3rdparty/openssl/build/include"
   "src/modules/include"
   "src/modules/src"
   "src/core/include"
   "src/dbmanager/include"
   "src/netmanager/include"
+  "3rdparty/quazip"
+  "3rdparty/quazip/quazip"
+  "3rdparty/sqlite_orm/include"
   "/usr/include/qt5"
   "/usr/include/qt5/QtCore"
   "/usr/share/qt5/mkspecs/linux-g++"
@@ -64,6 +70,7 @@ set(CMAKE_TARGET_LINKED_INFO_FILES
   "/home/mersdk/src/src/core/CMakeFiles/core.dir/DependInfo.cmake"
   "/home/mersdk/src/src/dbmanager/CMakeFiles/dbmanager.dir/DependInfo.cmake"
   "/home/mersdk/src/src/netmanager/CMakeFiles/netmanager.dir/DependInfo.cmake"
+  "/home/mersdk/src/3rdparty/quazip/quazip/CMakeFiles/QuaZip.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
