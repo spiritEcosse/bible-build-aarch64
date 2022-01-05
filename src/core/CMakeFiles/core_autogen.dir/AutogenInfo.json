@@ -64,6 +64,7 @@
 	[
 		"/home/mersdk/src/src/core",
 		"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm",
+		"/home/mersdk/src/3rdparty/openssl/build/include",
 		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/home/mersdk/src/src/core/include",
 		"/home/mersdk/src/src/core/src",

@@ -45,6 +45,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
   "src/modules"
   "src/modules/modules_autogen/include"
   "3rdparty/sqlite_orm/include/sqlite_orm"
+  "3rdparty/openssl/build/include"
   "3rdparty/curl/build/include"
   "src/modules/include"
   "src/modules/src"
