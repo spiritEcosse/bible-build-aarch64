@@ -416,8 +416,8 @@ src/dbmanager/CMakeFiles/dbmanager_autogen.dir/clean:
 
 # All Build rule for target.
 src/netmanager/CMakeFiles/netmanager.dir/all: src/core/CMakeFiles/core.dir/all
-src/netmanager/CMakeFiles/netmanager.dir/all: src/modules/CMakeFiles/modules_autogen.dir/all
 src/netmanager/CMakeFiles/netmanager.dir/all: src/dbmanager/CMakeFiles/dbmanager_autogen.dir/all
+src/netmanager/CMakeFiles/netmanager.dir/all: src/modules/CMakeFiles/modules_autogen.dir/all
 src/netmanager/CMakeFiles/netmanager.dir/all: src/netmanager/CMakeFiles/netmanager_autogen.dir/all
 	$(MAKE) $(MAKESILENT) -f src/netmanager/CMakeFiles/netmanager.dir/build.make src/netmanager/CMakeFiles/netmanager.dir/depend
 	$(MAKE) $(MAKESILENT) -f src/netmanager/CMakeFiles/netmanager.dir/build.make src/netmanager/CMakeFiles/netmanager.dir/build
