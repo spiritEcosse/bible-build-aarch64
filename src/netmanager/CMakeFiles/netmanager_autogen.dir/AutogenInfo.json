@@ -77,9 +77,6 @@
 	"MOC_INCLUDES" : 
 	[
 		"/home/mersdk/src/src/netmanager",
-		"/home/mersdk/src/3rdparty/sqlite_orm/include/sqlite_orm",
-		"/home/mersdk/src/3rdparty/openssl/build/include",
-		"/home/mersdk/src/3rdparty/curl/build/include",
 		"/home/mersdk/src/src/netmanager/include",
 		"/home/mersdk/src/src/netmanager/src",
 		"/home/mersdk/src/src/modules/include",
